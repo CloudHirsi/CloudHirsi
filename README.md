@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidhirsi&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhirsi" /> </p>
 
-- 🔭 I’m currently working on [Production-Grade AKS](https://github.com/hamidhirsi/UltimateProjectAKS)
+- 🔭 I’m currently working on [Full MLOps Platform](https://github.com/hamidhirsi/mlops-platform)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamidhirsi?tab=repositories](https://github.com/hamidhirsi?tab=repositories)
 
