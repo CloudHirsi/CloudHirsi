@@ -3,7 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidhirsi&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhirsi" /> </p>
 
-- 🔭 I’m currently working on [Full MLOps Platform](https://github.com/hamidhirsi/mlops-platform)
+AI/MLOps Projects:
+
+1. [Full ML Lifecycle - MLOps + GenAI on AWS](https://github.com/hamidhirsi/mlops-case-study)
+
+2. [Data/ML Platform on Azure](https://github.com/hamidhirsi/azure-mlops-platform)
+
+3. [Voice Agent on GCP](https://github.com/hamidhirsi/gcp-voice-agent)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamidhirsi?tab=repositories](https://github.com/hamidhirsi?tab=repositories)
 
